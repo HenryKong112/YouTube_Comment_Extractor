@@ -4,6 +4,9 @@
 
 Allow people to extract comments and other important information to conduct further analysis such as sentiment analysis and topic modelling.
 
+## Demonstration
+
+https://www.youtube.com/watch?v=ZpG8ppoPqEI
 
 ## Data collect
 
