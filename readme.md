@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=ZpG8ppoPqEI
 
 ### 1. Run the gui.py
   ```
-  $ python3 gui.py
+  $ python gui.py
   ```
 - A Graphical User Interface (GUI) will show up.
 
