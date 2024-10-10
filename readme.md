@@ -31,6 +31,7 @@ https://www.youtube.com/watch?v=ZpG8ppoPqEI
    ```bash
    git clone https://github.com/HenryKong112/YouTube_Comment_Extractor.git
    cd YouTube_Comment_Extractor
+   pip install -r requirements.txt
    ```
 ### 2. Run the gui.py
   ```
