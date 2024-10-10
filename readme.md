@@ -27,22 +27,26 @@ https://www.youtube.com/watch?v=ZpG8ppoPqEI
 | password  | VARCHAR(256) | User's password, hashed with SHA256 |
 
 ## Instruction
-
-### 1. Run the gui.py
+### 1. Clone the repository:
+   ```bash
+   git clone https://github.com/HenryKong112/YouTube_Comment_Extractor.git
+   cd YouTube_Comment_Extractor
+   ```
+### 2. Run the gui.py
   ```
   $ python gui.py
   ```
 - A Graphical User Interface (GUI) will show up.
 
 
-### 2. Login/Register an account
+### 3. Login/Register an account
 
 <img src='image/login_page.png'>
 
 - Email must be in xxx@xxx.com format
 - Password must be between 8 and 16 characters long
 
-### 3. Enter YouTube API key and Video ID, click the button to download the excel/csv file for the comments
+### 4. Enter YouTube API key and Video ID, click the button to download the excel/csv file for the comments
 
 - Video ID will be the filename
   
